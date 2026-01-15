@@ -1,8 +1,7 @@
 # Deep-Dive-Titanic-DNN-From-Scratch
-# 🚢
-Titanic Survival Prediction: A Deep Dive with Optuna
+# 🚢Titanic Survival Prediction: A Deep Dive with Optuna
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue.svg)](https://www.kaggle.com/c/titanic/data)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue.svg)](https://www.kaggle.com/competitions/titanic/data)
 
 ##  Project Overview
 This project applies machine learning techniques to predict the survival of passengers on the Titanic. The dataset is sourced from the famous [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic/data).
